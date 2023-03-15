@@ -1,0 +1,17 @@
+#########################################################################
+ GESTION DE MEMORIA SECCION DE AYUDA / HELP
+ Descripcion de ayuda de las diferentes opciones
+ ==> Presione la letra 'q' para VOLVER al MENU
+#########################################################################
+
+ 1- Reporte de memoria RAM: Utiliza el comando free y el lenguaje awk
+			    para filtrar y mostrar el porcentaje (%) de
+			    memoria RAM utilizada y disponible.
+
+ 2- Script de memory-alert.sh: Envia una alerta al mail local del
+			       usuario que lo ejecuta si el uso de
+			       memoria exede el %20
+
+########################################################################
+==> Presione la letra 'q' para VOLVER al MENU
+

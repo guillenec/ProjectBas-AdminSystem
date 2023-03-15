@@ -1,0 +1,30 @@
+#########################################################################
+ GESTION DE USUARIOS SECCION DE AYUDA / HELP
+ Descripcion de ayuda de las diferentes opciones
+ ==> Presione la letra 'q' para VOLVER al MENU
+#########################################################################
+
+  1- Altas de Usuarios: A partir de un archivo csv puede crear usuarios.
+			La lista .csv de contener cinco apartados por
+			linea, separados por coma, ejemplo:
+        "usuario1, apellido1, nombre1, correo electronico1, contrasena1"
+
+  2- Cruce de Claves: A partir de un archivo csv de usuario, puede cruzar
+                      las claves o generarlas en caso de que no exitan,
+                      dentro de un conjunto de maquinas que tambien liste
+                      en un csv.
+
+  3- Baja de Usuarios: A partir de un archivo csv de usuarios, puede dar
+                       de baja los mismos del sistema.
+
+  4- Reporte de Usuario de sistema: Devuelve un listado de los usuarios
+                                    del sistema.
+
+  5- Reporte de Usuarios activos: Devuelve un listado de usuarios del
+                                  sistema con posibilidad de login.
+
+  6- Reporte de Usuarios activos/sistema (Remoto): Devulve un listado de
+                     usuarios del sistema y activos de maquinas remotas.
+
+########################################################################
+==> Presione la letra 'q' para VOLVER al MENU

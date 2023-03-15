@@ -1,0 +1,22 @@
+#########################################################################
+ GESTION DE TEXTO SECCION DE AYUDA / HELP
+ Descripcion de ayuda de las diferentes opciones
+ ==> Presione la letra 'q' para VOLVER al MENU
+#########################################################################
+
+ 1- Verificar la resolucion
+    del hostname local:	     Verifica que la resolucion de hostname local
+			     de la maquina se encuentre correctamente
+			     configurado en la base de datos local de
+			     hosts (/etc/hosts). En caso de no estarlo
+			     muestra una advertencia.
+
+ 2- Chequear DNS y
+           actualizar:	     Obtiene un listado de servidores DNS,
+			     verifica si estan configurados y en caso de
+			     no estarlo son agregados a la configuracion
+			     actual.
+
+########################################################################
+==> Presione la letra 'q' para VOLVER al MENU
+

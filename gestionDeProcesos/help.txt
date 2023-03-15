@@ -1,0 +1,30 @@
+##############################################################################
+ GESTION DE PROCESOS SECCION DE AYUDA / HELP
+ Descripcion de ayuda de las diferentes opciones
+ ==> Presione la letra 'q' para VOLVER al MENU 
+##############################################################################
+1- Reporte de los primeros 5 procesos	Brinda un reporte de los 5 procesos
+   ordenados por consumo de memoria:    que mas memoria consumen.
+
+2- Reportar una alerta si el numero	Brinda una alerta si el numero de
+   de procesos es superior a un		procesos es mayor al umbral propor-
+   umbral provisto por el usuario:	cionado por el usuario. Esto se eje-
+					cuta solo en la maquina local. No
+					posee funcion remota.
+
+3- Monitorear un proceso especifico:	Monitorea un proceso especifico que
+					se indica mediante el PID y muestra
+					dicho proceso por pantalla en una
+					iteracion de posee 10 veces de limite.
+
+4- Eliminar un proceso especifico	Elimina un proceso especifico que se
+   dado su id de proceso (PID):		indica mediante el PID. Comienza de
+					forma amable, se intenta con mayor
+					impetu y en caso de no poder eliminar
+					se informa.
+
+5- Eliminar varios procesos:		Elimina varios procesos en una sola
+					orden de ejecucion.
+##############################################################################
+ ==> Presione la letra 'q' para VOLVER al MENU
+

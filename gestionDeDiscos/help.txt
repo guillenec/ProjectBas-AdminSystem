@@ -1,0 +1,25 @@
+##############################################################################
+ GESTION DE DISCOS SECCION DE AYUDA / HELP
+ Descripcion de ayuda de las diferentes opciones
+ ==> Presione la letra 'q' para VOLVER al MENU    
+##############################################################################
+
+ 1- Reporte de espacio en
+    disco para cada servidor: Muestra tamanio total, % utilizado, % disponible
+			      y punto de montaje.
+
+
+ 2- Reporte de rendimiento
+    de los discos locales:    Muestra rendimiento de discos locales. Si dicha
+			      herramienta no se encuentra instalada, se
+			      solicitara instalarla.
+
+
+ 3- Reporte de actividad de I/O
+    en todos los discos primarios: Muestra actividad I/O de todos los discos
+				   primarios y de todos los servidores.
+				   Si la herramienta no se encuentra instalada
+				   solicitara instalarla.
+
+##############################################################################
+==> Presione la letra 'q' para VOLVER al MENU

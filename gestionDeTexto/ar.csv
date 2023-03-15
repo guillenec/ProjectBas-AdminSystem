@@ -1,0 +1,15 @@
+ip_address,name,as_number,as_org,country_code,city,version,error,dnssec,reliability,checked_at,created_at
+190.151.144.21,21.144.151.190.cabletel.net.ar.,52339,Lima Video Cable S.A. (Cabletel),AR,Zárate,9.9.5-9+deb8u15-Debian,,false,1.00,2021-05-06T07:30:22Z,2020-11-22T11:37:26Z
+200.69.193.2,dns1.iplanisp.com.ar.,16814,NSS S.A.,AR,Buenos Aires,unknown,,true,0.99,2021-05-03T22:24:43Z,2021-02-03T21:51:23Z
+200.45.48.233,ns2.arnet.com.ar.,7303,Telecom Argentina S.A.,AR,Piamonte,,,false,1.00,2021-05-23T02:40:23Z,2021-02-12T12:36:06Z
+181.14.245.186,host186.181-14-245.telecom.net.ar.,7303,Telecom Argentina S.A.,AR,Victoria,,,false,0.50,2020-07-14T16:00:40Z,2014-12-29T14:36:48Z
+200.45.184.43,host43.200-45-184.telecom.net.ar.,7303,Telecom Argentina S.A.,AR,Tigre,,,false,0.64,2021-05-19T09:47:04Z,2014-12-29T17:54:47Z
+200.110.130.195,host195.200.110.130.ifxnw.com.ar.,18747,IFX18747,AR,Buenos Aires,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.50,2020-07-14T16:01:50Z,2014-12-29T20:21:26Z
+179.60.232.10,nubesrv05.nubenet.com.ar.,263693,WICORP SA,AR,Rosario,,,false,0.42,2021-05-22T15:46:48Z,2014-12-29T22:53:24Z
+186.56.59.251,186-56-59-251.mrse.com.ar.,265877,Cotelvo Ltda.,AR,,,,false,0.50,2020-07-14T16:02:23Z,2014-12-29T23:12:44Z
+170.210.83.110,mikrofatu.uncoma.edu.ar.,4270,Red de Interconexion Universitaria,AR,Neuquén,,,false,0.50,2020-07-14T16:02:39Z,2014-12-30T09:09:45Z
+200.110.130.194,host194.200.110.130.ifxnw.com.ar.,18747,IFX18747,AR,Buenos Aires,Microsoft DNS 6.1.7601 (1DB15F75),,false,0.82,2021-05-18T03:55:53Z,2014-12-30T13:32:33Z
+186.38.56.11,dns.interonda.com.ar.,265736,SCDPLANET S.A.,AR,Salto,8.4.4-NOESW,,false,0.60,2021-05-03T22:26:54Z,2014-12-30T15:46:54Z
+181.110.241.74,host74.181-110-241.telecom.net.ar.,7303,Telecom Argentina S.A.,AR,Berisso,,,false,0.68,2021-05-22T13:54:59Z,2015-01-06T18:04:42Z
+157.92.190.15,sucs15.suc.rec.uba.ar.,3449,Universidad Nacional de Buenos Aires,AR,Buenos Aires,,,false,0.73,2021-05-23T02:42:38Z,2015-01-06T22:11:02Z
+179.60.235.209,gw5209.nubenet.com.ar.,263693,WICORP SA,AR,,,,false,0.50,2021-05-03T22:26:19Z,2015-01-10T14:01:43Z
